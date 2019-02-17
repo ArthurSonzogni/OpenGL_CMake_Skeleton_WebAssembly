@@ -1,5 +1,5 @@
 
-OpenGL CMake Skeleton WebAssembly[![Build Status](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton_WebAssembly.svg?branch=master)](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton_WebAssembly)
+OpenGL CMake Skeleton WebAssembly [![Build Status](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton_WebAssembly.svg?branch=master)](https://travis-ci.org/ArthurSonzogni/OpenGL_CMake_Skeleton_WebAssembly)
 =======================
 
 A ready to use C++11 CMake OpenGL skeleton using **GLFW**, **Glew** and **glm**. (use git submodules)
