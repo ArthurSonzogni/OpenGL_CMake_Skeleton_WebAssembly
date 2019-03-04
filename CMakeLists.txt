@@ -63,6 +63,7 @@ else() # Not Web
   target_link_libraries(main PRIVATE glfw)
 
   # glew
+  add_definitions(-DGLEW_STATIC)
   add_subdirectory(lib/glew EXCLUDE_FROM_ALL)
   target_link_libraries(main PRIVATE libglew_static)
 endif()
